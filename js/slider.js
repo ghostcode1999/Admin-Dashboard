@@ -1,3 +1,10 @@
+/*-------------------------------------------
+* Template Name: Admin Dashboard
+* Updated: Jul 20 2024
+* Author: Naim Zaaraoui
+* PSD Designer: Naim Zaaraoui
+-------------------------------------------*/
+
 const projSlider = document.querySelector(".projects .wrapper"),
   ctrlBtns = document.querySelectorAll(".projects .btn"),
   projects = projSlider.querySelectorAll(".project"),

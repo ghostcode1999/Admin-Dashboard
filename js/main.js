@@ -1,3 +1,9 @@
+/*-------------------------------------------
+* Template Name: Admin Dashboard
+* Updated: Jul 20 2024
+* Author: Naim Zaaraoui
+* PSD Designer: Naim Zaaraoui
+-------------------------------------------*/
 
 // --------- ADMIN CONTENT ---------
 const todoContainer = document.querySelector(".todo-list"),

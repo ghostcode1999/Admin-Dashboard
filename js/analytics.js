@@ -1,3 +1,10 @@
+/*-------------------------------------------
+* Template Name: Admin Dashboard
+* Updated: Jul 20 2024
+* Author: Naim Zaaraoui
+* PSD Designer: Naim Zaaraoui
+-------------------------------------------*/
+
 const day = document.querySelector(".soon .days .nb"),
   hours = document.querySelector(".soon .hours .nb"),
   minutes = document.querySelector(".soon .minutes .nb"),
